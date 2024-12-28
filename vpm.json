@@ -14,10 +14,10 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hoshinolabs/com.unity.scriptablebuildpipeline",
-        "hoshinolabs/Sardinject",
-        "hoshinolabs/ULocalization",
-        "hoshinolabs/Sardinal"
+        "ikuko/com.unity.scriptablebuildpipeline",
+        "ikuko/Sardinject",
+        "ikuko/ULocalization",
+        "ikuko/Sardinal"
     ],
     "packages":[
     ]
