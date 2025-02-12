@@ -17,7 +17,8 @@
         "ikuko/com.unity.scriptablebuildpipeline",
         "ikuko/Sardinject",
         "ikuko/ULocalization",
-        "ikuko/Sardinal"
+        "ikuko/Sardinal",
+        "ikuko/ClientSimPatcher"
     ],
     "packages":[
     ]
