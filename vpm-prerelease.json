@@ -18,7 +18,8 @@
         "ikuko/Sardinject",
         "ikuko/ULocalization",
         "ikuko/Sardinal",
-        "ikuko/ClientSimPatcher"
+        "ikuko/ClientSimPatcher",
+        "ikuko/ClientSimExtensions"
     ],
     "packages":[
     ]
