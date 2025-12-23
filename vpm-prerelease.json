@@ -19,7 +19,8 @@
         "ikuko/ULocalization",
         "ikuko/Sardinal",
         "ikuko/ClientSimPatcher",
-        "ikuko/ClientSimExtensions"
+        "ikuko/ClientSimExtensions",
+        "ikuko/UdonEmuTools"
     ],
     "packages":[
     ]
